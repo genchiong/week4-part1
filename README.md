@@ -1,1 +1,5 @@
-# week4-part1
+# Week 1 Part 1: t-tests
+
+Some text! 
+
+This is **bold** this is *italics*! 
